@@ -52,9 +52,8 @@ Participants in this project are expected to:
 
 If you experience or witness behavior that violates this Code of Conduct:
 
-📧 *Contact:* [udityamerit@gmail.com](mailto:udityamerit@gmail.com)  
-🔧 Or open an issue on [GitHub Issues](https://github.com/udityamerit/Credit-Card-Approval-Prediction/issues)
-
+📧 *Contact:* [pratiharkirti@gmail.com](mailto:pratiharkirti@gmail.com)  
+🔧 Or open an issue on [GitHub Issues]
 All reports will be kept confidential and handled respectfully.
 
 ---
